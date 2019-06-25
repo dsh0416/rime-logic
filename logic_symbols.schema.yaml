@@ -42,6 +42,3 @@ translator:
   spelling_hints: 10
   prism: logic_symbols
   enable_user_dict: false
-
-key_binder:
-  import_preset: default
